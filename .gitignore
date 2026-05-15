@@ -1,0 +1,7 @@
+ru_sentiment_dataset/
+data/
+*.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
